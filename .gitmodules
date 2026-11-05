@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "mdiharmonize"]
+	path = mdiharmonize
+	url = https://github.com/secretariat-compnet/mdiharmonize
 [submodule "mditools"]
 	path = mditools
 	url = https://github.com/secretariat-compnet/mditools
